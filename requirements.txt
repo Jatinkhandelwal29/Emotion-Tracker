@@ -1,0 +1,9 @@
+streamlit
+flask
+flask-cors
+pandas
+numpy
+plotly
+opencv-python
+mediapipe
+deepface
